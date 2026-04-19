@@ -19,6 +19,8 @@ const input =(arr)=>{
     return faaaah[2]
 }
 console.log(input([10,15,8,20])    
+   
+
 
 )
 
