@@ -15,7 +15,7 @@
 
 
 const input =(arr)=>{
-    const faaaah =arr.sort((a,b) => (b-a))
+    const faaaah =arr.sort((a,b) => (b-a)   )
     return faaaah[2]
 }
 console.log(input([10,15,8,20])    
